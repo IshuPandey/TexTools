@@ -42,10 +42,10 @@
   <div className="mb-3">
         <label htmlFor="myBox" className="form-label"></label>
         <textarea className="form-control" style={{backgroundColor: props.mode==='light'?'white':'black', color: props.mode==='light'?'black':'white'}} id="myBox" rows="3" value={text} onChange={handleChange}></textarea>
-        <button className="btn btn-success my-2 mx-2" onClick={handleclearClick}>Clear</button>
-  <button className="btn btn-success my-3 mx-2" onClick={handleupperClick}>Convert to uppercase</button>
-  <button className="btn btn-success my-3 mx-2" onClick={handlelowerClick}>Convert to lowerrcase</button>
-  <button className="btn btn-success my-3 mx-2" onClick={copyToClipboard}>Copy to clipboard</button>
+        <button className="btn btn-success my-1 mx-1" onClick={handleclearClick}>Clear</button>
+  <button className="btn btn-success my-1 mx-1" onClick={handleupperClick}>Convert to uppercase</button>
+  <button className="btn btn-success my-1 mx-1" onClick={handlelowerClick}>Convert to lowerrcase</button>
+  <button className="btn btn-success my-1 mx-1" onClick={copyToClipboard}>Copy to clipboard</button>
  
 
   </div>
