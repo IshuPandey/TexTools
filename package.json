@@ -1,6 +1,6 @@
 {
-  "homepage": "https://ishupandey.github.io/TexTools-React",
-  "name": "textools",
+  "homepage": "https://ishupandey.github.io/TexTools",
+  "name": "textutils",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

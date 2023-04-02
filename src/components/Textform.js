@@ -52,7 +52,7 @@
     </div>
     <div className="container" >
       <h3>Your text summary</h3>
-      <p><b>{text.split(" ").length}</b> words and <b>{text.length}</b> characters</p>
+      <p><b>{text.split(" ").filter((element)=>{return element.length!=0}).length}</b> words and <b>{text.length}</b> characters</p>
       <p>
     Minutes read <b>{0.008*text.split(" ").length}</b>
       </p>
