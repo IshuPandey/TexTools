@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/TexTools/static/css/main.e6c13ad2.css",
-    "main.js": "/TexTools/static/js/main.4ede614e.js",
-    "static/js/787.719ec76d.chunk.js": "/TexTools/static/js/787.719ec76d.chunk.js",
-    "index.html": "/TexTools/index.html",
-    "main.e6c13ad2.css.map": "/TexTools/static/css/main.e6c13ad2.css.map",
-    "main.4ede614e.js.map": "/TexTools/static/js/main.4ede614e.js.map",
-    "787.719ec76d.chunk.js.map": "/TexTools/static/js/787.719ec76d.chunk.js.map"
+    "main.css": "/TexTools-ReactJs/static/css/main.e6c13ad2.css",
+    "main.js": "/TexTools-ReactJs/static/js/main.a7f12d17.js",
+    "static/js/787.719ec76d.chunk.js": "/TexTools-ReactJs/static/js/787.719ec76d.chunk.js",
+    "index.html": "/TexTools-ReactJs/index.html",
+    "main.e6c13ad2.css.map": "/TexTools-ReactJs/static/css/main.e6c13ad2.css.map",
+    "main.a7f12d17.js.map": "/TexTools-ReactJs/static/js/main.a7f12d17.js.map",
+    "787.719ec76d.chunk.js.map": "/TexTools-ReactJs/static/js/787.719ec76d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.4ede614e.js"
+    "static/js/main.a7f12d17.js"
   ]
 }
